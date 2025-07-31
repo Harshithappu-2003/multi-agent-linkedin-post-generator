@@ -121,3 +121,5 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 
 - Google Agent Development Kit team
 - Google Gemini AI for content generation capabilities
+
+![alt text](<Screenshot 2025-08-01 025141.png>)
