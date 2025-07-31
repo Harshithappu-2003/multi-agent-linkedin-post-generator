@@ -1,6 +1,6 @@
-# LinkedIn Content Assistant
+# LinkedIn Post generator
 
-A Python application that uses Google's Agent Development Kit (ADK) and Gemini AI to automatically generate trending LinkedIn posts from topics. The system uses a multi-agent approach to brainstorm ideas, write drafts, and format content into engaging LinkedIn posts.
+A Python-based multi-agent application using Google's **Agent Development Kit (ADK)** and **Gemini AI** to auto-generate engaging LinkedIn posts from any topic.
 
 ## Features
 
